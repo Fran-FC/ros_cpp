@@ -1,0 +1,8 @@
+[01m[K/home/user/catkin_ws/src/actions_quiz/src/action_custom_robot.cpp:8:10:[m[K [01;31m[Kfatal error: [m[Kactions_quiz/CustomActionMsgAction.h: No such file or directory
+    8 | #include [01;31m[K<actions_quiz/CustomActionMsgAction.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/action_custom_robot.dir/build.make:63: CMakeFiles/action_custom_robot.dir/src/action_custom_robot.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:210: CMakeFiles/action_custom_robot.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [Makefile:141: all] Error 2

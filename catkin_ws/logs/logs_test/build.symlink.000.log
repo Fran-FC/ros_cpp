@@ -1,0 +1,4 @@
+Symlinking /home/user/catkin_ws/devel/lib/logs_test/logger_example
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/logs_test.pc
+Symlinking /home/user/catkin_ws/devel/share/logs_test/cmake/logs_testConfig.cmake
+Symlinking /home/user/catkin_ws/devel/share/logs_test/cmake/logs_testConfig-version.cmake

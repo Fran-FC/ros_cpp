@@ -1,0 +1,59 @@
+[35m[1mScanning dependencies of target _my_turtlebot_service_server_generate_messages_check_deps_turtlebotServiceMessage[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target _my_turtlebot_service_server_generate_messages_check_deps_turtlebotServiceMessage
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target my_turtlebot_service_server_generate_messages_eus[0m
+[  9%] [34m[1mGenerating EusLisp code from my_turtlebot_service_server/turtlebotServiceMessage.srv[0m
+[ 18%] [34m[1mGenerating EusLisp manifest code for my_turtlebot_service_server[0m
+[35m[1mScanning dependencies of target my_turtlebot_service_server_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[ 27%] [34m[1mGenerating Lisp code from my_turtlebot_service_server/turtlebotServiceMessage.srv[0m
+[ 27%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target my_turtlebot_service_server_generate_messages_nodejs[0m
+[ 36%] [34m[1mGenerating Javascript code from my_turtlebot_service_server/turtlebotServiceMessage.srv[0m
+[ 36%] Built target my_turtlebot_service_server_generate_messages_lisp
+[35m[1mScanning dependencies of target my_turtlebot_service_server_generate_messages_py[0m
+[35m[1mScanning dependencies of target my_turtlebot_service_server_generate_messages_cpp[0m
+[ 45%] [34m[1mGenerating Python code from SRV my_turtlebot_service_server/turtlebotServiceMessage[0m
+[ 45%] Built target my_turtlebot_service_server_generate_messages_nodejs
+[ 54%] [34m[1mGenerating C++ code from my_turtlebot_service_server/turtlebotServiceMessage.srv[0m
+[35m[1mScanning dependencies of target call_service_test[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/call_service_test.dir/src/call_service_test.cpp.o[0m
+[ 72%] [34m[1mGenerating Python srv __init__.py for my_turtlebot_service_server[0m
+[ 72%] Built target my_turtlebot_service_server_generate_messages_py
+[ 72%] Built target my_turtlebot_service_server_generate_messages_cpp
+[ 72%] Built target my_turtlebot_service_server_generate_messages_eus
+[35m[1mScanning dependencies of target my_turtlebot_service_server_generate_messages[0m
+[35m[1mScanning dependencies of target my_turtlebot_service_server_cpp[0m
+[ 72%] Built target my_turtlebot_service_server_generate_messages
+[ 81%] [32mBuilding CXX object CMakeFiles/my_turtlebot_service_server_cpp.dir/src/my_turtlebot_service_server_cpp.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/my_turtlebot_service_server/lib/my_turtlebot_service_server/call_service_test[0m
+[ 90%] Built target call_service_test
+[100%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/my_turtlebot_service_server/lib/my_turtlebot_service_server/my_turtlebot_service_server_cpp[0m
+[100%] Built target my_turtlebot_service_server_cpp

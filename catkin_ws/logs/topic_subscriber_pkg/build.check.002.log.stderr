@@ -1,0 +1,7 @@
+[31m[1mCMake Error[0m at /home/user/catkin_ws/src/topic_subscriber_pkg/CMakeLists.txt:132 (add_dependencies):
+  The dependency target "topic_ex_generate_messages_cpp" of target
+  "publish_age" does not exist.
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
+make: *** [Makefile:742: cmake_check_build_system] Error 1

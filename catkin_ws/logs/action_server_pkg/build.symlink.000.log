@@ -1,0 +1,4 @@
+Symlinking /home/user/catkin_ws/devel/lib/action_server_pkg/fibonacci_action_server
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/action_server_pkg.pc
+Symlinking /home/user/catkin_ws/devel/share/action_server_pkg/cmake/action_server_pkgConfig-version.cmake
+Symlinking /home/user/catkin_ws/devel/share/action_server_pkg/cmake/action_server_pkgConfig.cmake

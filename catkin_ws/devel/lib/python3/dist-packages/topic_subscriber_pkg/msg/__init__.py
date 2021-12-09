@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/topic_subscriber_pkg/lib/python3/dist-packages/topic_subscriber_pkg/msg/__init__.py

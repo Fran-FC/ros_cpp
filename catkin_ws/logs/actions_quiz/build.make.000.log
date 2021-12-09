@@ -1,0 +1,114 @@
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  0%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[  0%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target _actions_quiz_generate_messages_check_deps_CustomActionMsgResult[0m
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgResult
+[35m[1mScanning dependencies of target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionResult[0m
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionResult
+[35m[1mScanning dependencies of target _actions_quiz_generate_messages_check_deps_CustomActionMsgGoal[0m
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgGoal
+[35m[1mScanning dependencies of target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionGoal[0m
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionGoal
+[35m[1mScanning dependencies of target _actions_quiz_generate_messages_check_deps_CustomActionMsgAction[0m
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgAction
+[35m[1mScanning dependencies of target _actions_quiz_generate_messages_check_deps_CustomActionMsgFeedback[0m
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgFeedback
+[35m[1mScanning dependencies of target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionFeedback[0m
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionFeedback
+[35m[1mScanning dependencies of target action_custom_robot[0m
+[  2%] [32mBuilding CXX object CMakeFiles/action_custom_robot.dir/src/action_custom_robot.cpp.o[0m
+[35m[1mScanning dependencies of target actions_quiz_generate_messages_lisp[0m
+[  5%] [34m[1mGenerating Lisp code from actions_quiz/CustomActionMsgAction.msg[0m
+[35m[1mScanning dependencies of target actions_quiz_generate_messages_py[0m
+[  7%] [34m[1mGenerating Lisp code from actions_quiz/CustomActionMsgActionGoal.msg[0m
+[ 10%] [34m[1mGenerating Python from MSG actions_quiz/CustomActionMsgAction[0m
+[ 12%] [34m[1mGenerating Python from MSG actions_quiz/CustomActionMsgActionGoal[0m
+[ 15%] [34m[1mGenerating Lisp code from actions_quiz/CustomActionMsgActionResult.msg[0m
+[ 17%] [34m[1mGenerating Python from MSG actions_quiz/CustomActionMsgActionResult[0m
+[ 20%] [34m[1mGenerating Python from MSG actions_quiz/CustomActionMsgActionFeedback[0m
+[ 23%] [34m[1mGenerating Lisp code from actions_quiz/CustomActionMsgActionFeedback.msg[0m
+[35m[1mScanning dependencies of target actions_quiz_generate_messages_eus[0m
+[ 25%] [34m[1mGenerating Python from MSG actions_quiz/CustomActionMsgGoal[0m
+[ 28%] [34m[1mGenerating EusLisp code from actions_quiz/CustomActionMsgAction.msg[0m
+[ 30%] [34m[1mGenerating Lisp code from actions_quiz/CustomActionMsgGoal.msg[0m
+[ 33%] [34m[1mGenerating Python from MSG actions_quiz/CustomActionMsgResult[0m
+[ 35%] [34m[1mGenerating Lisp code from actions_quiz/CustomActionMsgResult.msg[0m
+[ 38%] [34m[1mGenerating EusLisp code from actions_quiz/CustomActionMsgActionGoal.msg[0m
+[ 41%] [34m[1mGenerating Lisp code from actions_quiz/CustomActionMsgFeedback.msg[0m
+[ 41%] Built target actions_quiz_generate_messages_lisp
+[ 43%] [34m[1mGenerating Python from MSG actions_quiz/CustomActionMsgFeedback[0m
+[35m[1mScanning dependencies of target actions_quiz_generate_messages_cpp[0m
+[ 46%] [34m[1mGenerating C++ code from actions_quiz/CustomActionMsgAction.msg[0m
+[01m[K/home/user/catkin_ws/src/actions_quiz/src/action_custom_robot.cpp:8:10:[m[K [01;31m[Kfatal error: [m[Kactions_quiz/CustomActionMsgAction.h: No such file or directory
+    8 | #include [01;31m[K<actions_quiz/CustomActionMsgAction.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/action_custom_robot.dir/build.make:63: CMakeFiles/action_custom_robot.dir/src/action_custom_robot.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:210: CMakeFiles/action_custom_robot.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 51%] [34m[1mGenerating C++ code from actions_quiz/CustomActionMsgActionResult.msg[0m
+[ 51%] [34m[1mGenerating C++ code from actions_quiz/CustomActionMsgActionGoal.msg[0m
+[ 53%] [34m[1mGenerating EusLisp code from actions_quiz/CustomActionMsgActionResult.msg[0m
+[ 56%] [34m[1mGenerating Python msg __init__.py for actions_quiz[0m
+[ 58%] [34m[1mGenerating EusLisp code from actions_quiz/CustomActionMsgActionFeedback.msg[0m
+[ 61%] [34m[1mGenerating EusLisp code from actions_quiz/CustomActionMsgGoal.msg[0m
+[ 64%] [34m[1mGenerating EusLisp code from actions_quiz/CustomActionMsgResult.msg[0m
+[ 64%] Built target actions_quiz_generate_messages_py
+[ 66%] [34m[1mGenerating C++ code from actions_quiz/CustomActionMsgActionFeedback.msg[0m
+[ 69%] [34m[1mGenerating C++ code from actions_quiz/CustomActionMsgGoal.msg[0m
+[ 71%] [34m[1mGenerating EusLisp code from actions_quiz/CustomActionMsgFeedback.msg[0m
+[ 74%] [34m[1mGenerating EusLisp manifest code for actions_quiz[0m
+[ 76%] [34m[1mGenerating C++ code from actions_quiz/CustomActionMsgResult.msg[0m
+[ 79%] [34m[1mGenerating C++ code from actions_quiz/CustomActionMsgFeedback.msg[0m
+[ 79%] Built target actions_quiz_generate_messages_cpp
+[ 79%] Built target actions_quiz_generate_messages_eus
+make: *** [Makefile:141: all] Error 2

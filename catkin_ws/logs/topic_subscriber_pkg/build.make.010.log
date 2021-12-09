@@ -1,0 +1,24 @@
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_nodejs
+[ 18%] Built target publish_age
+[ 36%] Built target simple_topic_subscriber
+[ 36%] Built target _topic_subscriber_pkg_generate_messages_check_deps_Age
+[ 45%] Built target topic_subscriber_pkg_generate_messages_lisp
+[ 63%] Built target topic_subscriber_pkg_generate_messages_py
+[ 72%] Built target topic_subscriber_pkg_generate_messages_cpp
+[ 81%] Built target topic_subscriber_pkg_generate_messages_nodejs
+[100%] Built target topic_subscriber_pkg_generate_messages_eus
+[100%] Built target topic_subscriber_pkg_generate_messages

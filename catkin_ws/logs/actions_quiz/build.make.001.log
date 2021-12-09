@@ -1,0 +1,51 @@
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgResult
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionResult
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgGoal
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionGoal
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgAction
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgFeedback
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionFeedback
+[  2%] [32mBuilding CXX object CMakeFiles/action_custom_robot.dir/src/action_custom_robot.cpp.o[0m
+[ 23%] Built target actions_quiz_generate_messages_py
+[ 41%] Built target actions_quiz_generate_messages_lisp
+[ 61%] Built target actions_quiz_generate_messages_eus
+[ 79%] Built target actions_quiz_generate_messages_cpp
+[35m[1mScanning dependencies of target actions_quiz_generate_messages_nodejs[0m
+[ 82%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgAction.msg[0m
+[ 84%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgActionGoal.msg[0m
+[ 87%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgActionResult.msg[0m
+[ 89%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgActionFeedback.msg[0m
+[ 92%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgResult.msg[0m
+[ 94%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgGoal.msg[0m
+[ 97%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgFeedback.msg[0m
+[ 97%] Built target actions_quiz_generate_messages_nodejs
+[35m[1mScanning dependencies of target actions_quiz_generate_messages[0m
+[ 97%] Built target actions_quiz_generate_messages
+[100%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/actions_quiz/lib/actions_quiz/action_custom_robot[0m
+[100%] Built target action_custom_robot

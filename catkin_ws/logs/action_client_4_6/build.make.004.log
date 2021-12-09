@@ -1,0 +1,94 @@
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target action_client_4_6_cpp[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/action_client_4_6_cpp.dir/src/action_client_4_6_cpp.cpp.o[0m
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:13:19:[m[K [01;31m[Kerror: [m[K'[01m[Kardrone_as[m[K' does not name a type
+   13 |             const [01;31m[Kardrone_as[m[K::ArdroneResultConstPtr& result)
+      |                   [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:13:52:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before '[01m[K&[m[K' token
+   13 |             const ardrone_as::ArdroneResultConstPtr[01;31m[K&[m[K result)
+      |                                                    [01;31m[K^[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:13:52:[m[K [01;31m[Kerror: [m[Kexpected '[01m[K)[m[K' before '[01m[K&[m[K' token
+   13 |             const ardrone_as::ArdroneResultConstPtr[01;31m[K&[m[K result)
+      |                                                    [01;31m[K^[m[K
+      |                                                    [32m[K)[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:12:12:[m[K [01;36m[Knote: [m[Kto match this '[01m[K([m[K'
+   12 | void doneCb[01;36m[K([m[Kconst actionlib::SimpleClientGoalState& state,
+      |            [01;36m[K^[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:13:54:[m[K [01;31m[Kerror: [m[Kexpected initializer before '[01m[Kresult[m[K'
+   13 |             const ardrone_as::ArdroneResultConstPtr& [01;31m[Kresult[m[K)
+      |                                                      [01;31m[K^~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:26:23:[m[K [01;31m[Kerror: [m[K'[01m[Kardrone_as[m[K' does not name a type
+   26 | void feedbackCb(const [01;31m[Kardrone_as[m[K::ArdroneFeedbackConstPtr& feedback)
+      |                       [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:26:58:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before '[01m[K&[m[K' token
+   26 | void feedbackCb(const ardrone_as::ArdroneFeedbackConstPtr[01;31m[K&[m[K feedback)
+      |                                                          [01;31m[K^[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:26:58:[m[K [01;31m[Kerror: [m[Kexpected '[01m[K)[m[K' before '[01m[K&[m[K' token
+   26 | void feedbackCb[34m[K([m[Kconst ardrone_as::ArdroneFeedbackConstPtr[01;31m[K&[m[K feedback)
+      |                [34m[K~[m[K                                         [01;31m[K^[m[K
+      |                                                          [32m[K)[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:26:60:[m[K [01;31m[Kerror: [m[Kexpected initializer before '[01m[Kfeedback[m[K'
+   26 | void feedbackCb(const ardrone_as::ArdroneFeedbackConstPtr& [01;31m[Kfeedback[m[K)
+      |                                                            [01;31m[K^~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:[m[K In function '[01m[Kint main(int, char**)[m[K':
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:48:33:[m[K [01;31m[Kerror: [m[K'[01m[Kardrone_as[m[K' was not declared in this scope
+   48 |   actionlib::SimpleActionClient<[01;31m[Kardrone_as[m[K::ArdroneAction> client("ardrone_action_server", true);
+      |                                 [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:48:58:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+   48 |   actionlib::SimpleActionClient<ardrone_as::ArdroneAction[01;31m[K>[m[K client("ardrone_action_server", true);
+      |                                                          [01;31m[K^[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:48:96:[m[K [01;31m[Kerror: [m[Kexpression list treated as compound expression in initializer [[01;31m[K-fpermissive[m[K]
+   48 |   actionlib::SimpleActionClient<ardrone_as::ArdroneAction> client("ardrone_action_server", true[01;31m[K)[m[K;
+      |                                                                                                [01;31m[K^[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:49:10:[m[K [01;31m[Kerror: [m[Krequest for member '[01m[KwaitForServer[m[K' in '[01m[Kclient[m[K', which is of non-class type '[01m[Kint[m[K'
+   49 |   client.[01;31m[KwaitForServer[m[K(); // Waits until the action server is up and running
+      |          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:51:3:[m[K [01;31m[Kerror: [m[K'[01m[Kardrone_as[m[K' is not a class, namespace, or enumeration
+   51 |   [01;31m[Kardrone_as[m[K::ArdroneGoal goal; // Creates a goal to send to the action server
+      |   [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:52:3:[m[K [01;31m[Kerror: [m[K'[01m[Kgoal[m[K' was not declared in this scope
+   52 |   [01;31m[Kgoal[m[K.nseconds = 10; // Fills the goal. Indicates, take pictures along 10 seconds
+      |   [01;31m[K^~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:53:10:[m[K [01;31m[Kerror: [m[Krequest for member '[01m[KsendGoal[m[K' in '[01m[Kclient[m[K', which is of non-class type '[01m[Kint[m[K'
+   53 |   client.[01;31m[KsendGoal[m[K(goal, &doneCb, &activeCb, &feedbackCb); // sends the goal to the action server, specifying which                                                               // functions to call when the goal completes, when the                                                                 // goal becames active, and when feedback is received
+      |          [01;31m[K^~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:53:26:[m[K [01;31m[Kerror: [m[K'[01m[KdoneCb[m[K' was not declared in this scope
+   53 |   client.sendGoal(goal, &[01;31m[KdoneCb[m[K, &activeCb, &feedbackCb); // sends the goal to the action server, specifying which                                                               // functions to call when the goal completes, when the                                                                 // goal becames active, and when feedback is received
+      |                          [01;31m[K^~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:53:46:[m[K [01;31m[Kerror: [m[K'[01m[KfeedbackCb[m[K' was not declared in this scope
+   53 |   client.sendGoal(goal, &doneCb, &activeCb, &[01;31m[KfeedbackCb[m[K); // sends the goal to the action server, specifying which                                                               // functions to call when the goal completes, when the                                                                 // goal becames active, and when feedback is received
+      |                                              [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:58:58:[m[K [01;31m[Kerror: [m[Krequest for member '[01m[KgetState[m[K' in '[01m[Kclient[m[K', which is of non-class type '[01m[Kint[m[K'
+   58 |   actionlib::SimpleClientGoalState state_result = client.[01;31m[KgetState[m[K();
+      |                                                          [01;31m[K^~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_4_6/src/action_client_4_6_cpp.cpp:69:27:[m[K [01;31m[Kerror: [m[Krequest for member '[01m[KgetState[m[K' in '[01m[Kclient[m[K', which is of non-class type '[01m[Kint[m[K'
+   69 |     state_result = client.[01;31m[KgetState[m[K();
+      |                           [01;31m[K^~~~~~~~[m[K
+make[2]: *** [CMakeFiles/action_client_4_6_cpp.dir/build.make:63: CMakeFiles/action_client_4_6_cpp.dir/src/action_client_4_6_cpp.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:191: CMakeFiles/action_client_4_6_cpp.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

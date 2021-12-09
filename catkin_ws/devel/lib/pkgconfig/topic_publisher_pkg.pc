@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/topic_publisher_pkg/lib/pkgconfig/topic_publisher_pkg.pc

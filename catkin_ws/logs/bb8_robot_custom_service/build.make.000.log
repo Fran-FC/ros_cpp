@@ -1,0 +1,55 @@
+[35m[1mScanning dependencies of target _bb8_robot_custom_service_generate_messages_check_deps_robotDuration[0m
+[  0%] Built target _bb8_robot_custom_service_generate_messages_check_deps_robotDuration
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target bb8_robot_custom_service_generate_messages_eus[0m
+[ 11%] [34m[1mGenerating EusLisp code from bb8_robot_custom_service/robotDuration.srv[0m
+[ 22%] [34m[1mGenerating EusLisp manifest code for bb8_robot_custom_service[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[ 22%] Built target bb8_robot_custom_service_generate_messages_eus
+[ 22%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target bb8_robot_custom_service_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target bb8_robot_custom_service_generate_messages_py[0m
+[ 33%] [34m[1mGenerating Python code from SRV bb8_robot_custom_service/robotDuration[0m
+[ 44%] [34m[1mGenerating Lisp code from bb8_robot_custom_service/robotDuration.srv[0m
+[ 44%] Built target bb8_robot_custom_service_generate_messages_lisp
+[ 55%] [34m[1mGenerating Python srv __init__.py for bb8_robot_custom_service[0m
+[ 55%] Built target bb8_robot_custom_service_generate_messages_py
+[35m[1mScanning dependencies of target bb8_robot_custom_service_generate_messages_cpp[0m
+[ 66%] [34m[1mGenerating C++ code from bb8_robot_custom_service/robotDuration.srv[0m
+[ 66%] Built target bb8_robot_custom_service_generate_messages_cpp
+[35m[1mScanning dependencies of target bb8_robot_custom_service_generate_messages_nodejs[0m
+[ 77%] [34m[1mGenerating Javascript code from bb8_robot_custom_service/robotDuration.srv[0m
+[ 77%] Built target bb8_robot_custom_service_generate_messages_nodejs
+[35m[1mScanning dependencies of target bb8_move_custom_service_server[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/bb8_move_custom_service_server.dir/src/bb8_move_custom_service_server.cpp.o[0m
+[35m[1mScanning dependencies of target bb8_robot_custom_service_generate_messages[0m
+[ 88%] Built target bb8_robot_custom_service_generate_messages
+[100%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/bb8_robot_custom_service/lib/bb8_robot_custom_service/bb8_move_custom_service_server[0m
+[100%] Built target bb8_move_custom_service_server

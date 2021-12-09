@@ -1,0 +1,5 @@
+Symlinking /home/user/catkin_ws/devel/lib/bb8_robot_service/bb8_move_in_circle_service_server
+Symlinking /home/user/catkin_ws/devel/lib/bb8_robot_service/bb8_move_in_circle_service_client
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/bb8_robot_service.pc
+Symlinking /home/user/catkin_ws/devel/share/bb8_robot_service/cmake/bb8_robot_serviceConfig-version.cmake
+Symlinking /home/user/catkin_ws/devel/share/bb8_robot_service/cmake/bb8_robot_serviceConfig.cmake

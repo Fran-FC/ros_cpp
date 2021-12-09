@@ -1,0 +1,4 @@
+Linked: (/home/user/catkin_ws/devel/.private/my_package/lib/my_package/simple, /home/user/catkin_ws/devel/lib/my_package/simple)
+Linked: (/home/user/catkin_ws/devel/.private/my_package/lib/pkgconfig/my_package.pc, /home/user/catkin_ws/devel/lib/pkgconfig/my_package.pc)
+Linked: (/home/user/catkin_ws/devel/.private/my_package/share/my_package/cmake/my_packageConfig-version.cmake, /home/user/catkin_ws/devel/share/my_package/cmake/my_packageConfig-version.cmake)
+Linked: (/home/user/catkin_ws/devel/.private/my_package/share/my_package/cmake/my_packageConfig.cmake, /home/user/catkin_ws/devel/share/my_package/cmake/my_packageConfig.cmake)
