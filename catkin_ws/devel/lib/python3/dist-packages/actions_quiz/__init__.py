@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/actions_quiz/lib/python3/dist-packages/actions_quiz/__init__.py

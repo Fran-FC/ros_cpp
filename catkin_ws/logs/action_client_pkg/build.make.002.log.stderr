@@ -1,14 +1,8 @@
-[01m[K/home/user/catkin_ws/src/action_client_pkg/src/wait_for_result_test.cpp:1:10:[m[K [01;31m[Kfatal error: [m[Kardrone_as/ArdroneAction.h: No such file or directory
-    1 | #include [01;31m[K<ardrone_as/ArdroneAction.h>[m[K // Note: "Action" is appended
-      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/action_client_pkg/src/ardrone_action_client.cpp:4:10:[m[K [01;31m[Kfatal error: [m[Kgeometry/msgs/Twist.h: No such file or directory
+    4 | #include [01;31m[K<geometry/msgs/Twist.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
 compilation terminated.
-make[2]: *** [CMakeFiles/wait_for_result_test.dir/build.make:63: CMakeFiles/wait_for_result_test.dir/src/wait_for_result_test.cpp.o] Error 1
-make[1]: *** [CMakeFiles/Makefile2:249: CMakeFiles/wait_for_result_test.dir/all] Error 2
+make[2]: *** [CMakeFiles/ardrone_action_client.dir/build.make:63: CMakeFiles/ardrone_action_client.dir/src/ardrone_action_client.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:301: CMakeFiles/ardrone_action_client.dir/all] Error 2
 make[1]: *** Waiting for unfinished jobs....
-[01m[K/home/user/catkin_ws/src/action_client_pkg/src/cancel_goal_test.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kardrone_as/ArdroneAction.h: No such file or directory
-    2 | #include [01;31m[K<ardrone_as/ArdroneAction.h>[m[K // Note: "Action" is appended
-      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-compilation terminated.
-make[2]: *** [CMakeFiles/cancel_goal_test.dir/build.make:63: CMakeFiles/cancel_goal_test.dir/src/cancel_goal_test.cpp.o] Error 1
-make[1]: *** [CMakeFiles/Makefile2:197: CMakeFiles/cancel_goal_test.dir/all] Error 2
 make: *** [Makefile:141: all] Error 2

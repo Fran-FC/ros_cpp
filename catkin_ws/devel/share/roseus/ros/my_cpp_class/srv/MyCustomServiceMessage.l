@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/my_cpp_class/share/roseus/ros/my_cpp_class/srv/MyCustomServiceMessage.l

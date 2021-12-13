@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/user/catkin_ws/devel/.private/action_server_pkg/setup.sh

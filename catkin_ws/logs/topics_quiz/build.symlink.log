@@ -1,3 +1,4 @@
-Linked: (/home/user/catkin_ws/devel/.private/topics_quiz/lib/pkgconfig/topics_quiz.pc, /home/user/catkin_ws/devel/lib/pkgconfig/topics_quiz.pc)
-Linked: (/home/user/catkin_ws/devel/.private/topics_quiz/share/topics_quiz/cmake/topics_quizConfig-version.cmake, /home/user/catkin_ws/devel/share/topics_quiz/cmake/topics_quizConfig-version.cmake)
-Linked: (/home/user/catkin_ws/devel/.private/topics_quiz/share/topics_quiz/cmake/topics_quizConfig.cmake, /home/user/catkin_ws/devel/share/topics_quiz/cmake/topics_quizConfig.cmake)
+Symlinking /home/user/catkin_ws/devel/lib/topics_quiz/topics_quiz
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/topics_quiz.pc
+Symlinking /home/user/catkin_ws/devel/share/topics_quiz/cmake/topics_quizConfig-version.cmake
+Symlinking /home/user/catkin_ws/devel/share/topics_quiz/cmake/topics_quizConfig.cmake

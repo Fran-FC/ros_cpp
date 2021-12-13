@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/bb8_server/share/bb8_server/cmake/bb8_serverConfig.cmake

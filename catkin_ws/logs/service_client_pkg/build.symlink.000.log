@@ -1,0 +1,4 @@
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/service_client_pkg.pc
+Symlinking /home/user/catkin_ws/devel/lib/service_client_pkg/simple_service_client
+Symlinking /home/user/catkin_ws/devel/share/service_client_pkg/cmake/service_client_pkgConfig.cmake
+Symlinking /home/user/catkin_ws/devel/share/service_client_pkg/cmake/service_client_pkgConfig-version.cmake

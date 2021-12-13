@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel/.private/services_quiz
+
+Name: services_quiz
+Description: Description of services_quiz
+Version: 0.0.0
+Cflags: -I/home/user/catkin_ws/devel/.private/services_quiz/include
+Libs: -L${prefix}/lib 
+Requires: roscpp

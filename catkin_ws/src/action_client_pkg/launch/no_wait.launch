@@ -1,0 +1,7 @@
+<launch>
+    <node
+        pkg="action_client_pkg"
+        name="drone_action_client"
+        type="no_wait">
+    </node>
+</launch>

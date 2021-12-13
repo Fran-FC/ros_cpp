@@ -1,0 +1,21 @@
+Linked: (/home/user/catkin_ws/devel/.private/my_cpp_class/lib/my_cpp_class/bb8_move_circle_class, /home/user/catkin_ws/devel/lib/my_cpp_class/bb8_move_circle_class)
+Linked: (/home/user/catkin_ws/devel/.private/my_cpp_class/lib/pkgconfig/my_cpp_class.pc, /home/user/catkin_ws/devel/lib/pkgconfig/my_cpp_class.pc)
+Symlinking /home/user/catkin_ws/devel/lib/python3/dist-packages/my_cpp_class/__init__.py
+Symlinking /home/user/catkin_ws/devel/lib/python3/dist-packages/my_cpp_class/srv/_MyCustomServiceMessage.py
+Symlinking /home/user/catkin_ws/devel/lib/python3/dist-packages/my_cpp_class/srv/__init__.py
+Symlinking /home/user/catkin_ws/devel/include/my_cpp_class/MyCustomServiceMessageResponse.h
+Symlinking /home/user/catkin_ws/devel/include/my_cpp_class/MyCustomServiceMessageRequest.h
+Symlinking /home/user/catkin_ws/devel/include/my_cpp_class/MyCustomServiceMessage.h
+Symlinking /home/user/catkin_ws/devel/share/common-lisp/ros/my_cpp_class/srv/MyCustomServiceMessage.lisp
+Symlinking /home/user/catkin_ws/devel/share/common-lisp/ros/my_cpp_class/srv/my_cpp_class-srv.asd
+Symlinking /home/user/catkin_ws/devel/share/common-lisp/ros/my_cpp_class/srv/_package_MyCustomServiceMessage.lisp
+Symlinking /home/user/catkin_ws/devel/share/common-lisp/ros/my_cpp_class/srv/_package.lisp
+Linked: (/home/user/catkin_ws/devel/.private/my_cpp_class/share/my_cpp_class/cmake/my_cpp_classConfig-version.cmake, /home/user/catkin_ws/devel/share/my_cpp_class/cmake/my_cpp_classConfig-version.cmake)
+Symlinking /home/user/catkin_ws/devel/share/my_cpp_class/cmake/my_cpp_class-msg-paths.cmake
+Linked: (/home/user/catkin_ws/devel/.private/my_cpp_class/share/my_cpp_class/cmake/my_cpp_classConfig.cmake, /home/user/catkin_ws/devel/share/my_cpp_class/cmake/my_cpp_classConfig.cmake)
+Symlinking /home/user/catkin_ws/devel/share/my_cpp_class/cmake/my_cpp_class-msg-extras.cmake
+Symlinking /home/user/catkin_ws/devel/share/roseus/ros/my_cpp_class/manifest.l
+Symlinking /home/user/catkin_ws/devel/share/roseus/ros/my_cpp_class/srv/MyCustomServiceMessage.l
+Symlinking /home/user/catkin_ws/devel/share/gennodejs/ros/my_cpp_class/_index.js
+Symlinking /home/user/catkin_ws/devel/share/gennodejs/ros/my_cpp_class/srv/_index.js
+Symlinking /home/user/catkin_ws/devel/share/gennodejs/ros/my_cpp_class/srv/MyCustomServiceMessage.js

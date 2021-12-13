@@ -1,0 +1,23 @@
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _my_custom_srv_msg_pkg_generate_messages_check_deps_MyCustomServiceMessage
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 11%] Built target my_custom_srv_msg_pkg_generate_messages_nodejs
+[ 44%] Built target my_custom_srv_msg_pkg_generate_messages_lisp
+[ 44%] Built target my_custom_srv_msg_pkg_generate_messages_py
+[ 55%] Built target my_custom_srv_msg_pkg_generate_messages_cpp
+[ 77%] Built target my_custom_srv_msg_pkg_generate_messages_eus
+[ 77%] Built target my_custom_srv_msg_pkg_generate_messages
+[100%] Built target bb8_move_custom_service_server

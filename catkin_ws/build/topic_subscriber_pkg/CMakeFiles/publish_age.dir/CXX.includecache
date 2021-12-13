@@ -6,22 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/user/catkin_ws/devel/.private/topic_subscriber_pkg/include/topic_subscriber_pkg/Age.h
-string
--
-vector
--
-map
--
-ros/types.h
--
-ros/serialization.h
--
-ros/builtin_message_traits.h
--
-ros/message_operations.h
--
-
 /home/user/catkin_ws/src/topic_subscriber_pkg/src/publish_age.cpp
 ros/ros.h
 -
@@ -236,10 +220,6 @@ boost/make_shared.hpp
 cstddef
 -
 memory
--
-
-/opt/ros/noetic/include/ros/message_operations.h
-ostream
 -
 
 /opt/ros/noetic/include/ros/message_traits.h

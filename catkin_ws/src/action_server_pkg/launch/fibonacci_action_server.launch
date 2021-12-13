@@ -1,0 +1,8 @@
+<launch>
+<node 
+    pkg="action_server_pkg"
+    name="fibonacci"
+    type="fib_action_server"
+    output="screen">
+</node>
+</launch>

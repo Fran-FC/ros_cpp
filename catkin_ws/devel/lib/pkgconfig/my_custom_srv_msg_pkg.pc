@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/my_custom_srv_msg_pkg/lib/pkgconfig/my_custom_srv_msg_pkg.pc

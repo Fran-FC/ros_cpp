@@ -1,5 +1,5 @@
 <launch>
     <!-- My Package launch file -->
-    <node pkg="topics_quiz_pkg" type="topics_quiz" name="topics_quiz_node"  output="screen">
+    <node pkg="topics_quiz" type="topics_quiz" name="topics_quiz_node"  output="screen">
     </node>
 </launch>

@@ -1,0 +1,13 @@
+<launch>
+
+<include file="$(find bb8_server)/launch/bb8_server.launch"/>
+
+
+<node pkg="bb8_server" 
+name="bb8_client" 
+type="bb8_client" 
+output="screen"> 
+</node>
+
+
+</launch>

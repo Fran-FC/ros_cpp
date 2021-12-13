@@ -1,0 +1,4 @@
+Symlinking /home/user/catkin_ws/devel/lib/square_action_server_pkg/move_drone_square
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/square_action_server_pkg.pc
+Symlinking /home/user/catkin_ws/devel/share/square_action_server_pkg/cmake/square_action_server_pkgConfig-version.cmake
+Symlinking /home/user/catkin_ws/devel/share/square_action_server_pkg/cmake/square_action_server_pkgConfig.cmake

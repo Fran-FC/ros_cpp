@@ -1,68 +1,12 @@
 [  0%] Built target _my_custom_srv_msg_pkg_generate_messages_check_deps_MyCustomServiceMessage
 [  0%] Built target std_msgs_generate_messages_eus
 [  0%] Built target std_msgs_generate_messages_py
-[  0%] Built target rosgraph_msgs_generate_messages_eus
-[  0%] Built target rosgraph_msgs_generate_messages_cpp
 [  0%] Built target std_msgs_generate_messages_nodejs
-[  0%] Built target roscpp_generate_messages_nodejs
-[  0%] Built target roscpp_generate_messages_eus
-[  0%] Built target roscpp_generate_messages_cpp
-[  0%] Built target roscpp_generate_messages_py
-[  0%] Built target rosgraph_msgs_generate_messages_py
-[  0%] Built target rosgraph_msgs_generate_messages_lisp
-[  0%] Built target std_msgs_generate_messages_lisp
-[  0%] Built target roscpp_generate_messages_lisp
 [  0%] Built target std_msgs_generate_messages_cpp
-[  0%] Built target rosgraph_msgs_generate_messages_nodejs
-[ 11%] Built target my_custom_srv_msg_pkg_generate_messages_lisp
-[ 33%] Built target my_custom_srv_msg_pkg_generate_messages_eus
-[ 55%] Built target my_custom_srv_msg_pkg_generate_messages_py
-[ 66%] Built target my_custom_srv_msg_pkg_generate_messages_nodejs
-[ 77%] Built target my_custom_srv_msg_pkg_generate_messages_cpp
-[ 88%] [32mBuilding CXX object CMakeFiles/custom_service_server.dir/src/custom_service_server.cpp.o[0m
-[ 88%] Built target my_custom_srv_msg_pkg_generate_messages
-In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
-                 from [01m[K/home/user/catkin_ws/src/my_custom_srv_msg_pkg/src/custom_service_server.cpp:1[m[K:
-[01m[K/home/user/catkin_ws/src/my_custom_srv_msg_pkg/src/custom_service_server.cpp:[m[K In function '[01m[Kbool my_callback(my_custom_srv_msg_pkg::MyCustomServiceMessage::Request&, my_custom_srv_msg_pkg::MyCustomServiceMessage::Response&)[m[K':
-[01m[K/home/user/catkin_ws/src/my_custom_srv_msg_pkg/src/custom_service_server.cpp:7:61:[m[K [01;31m[Kerror: [m[K'[01m[Kmy_custom_srv_msg_pkg::MyCustomServiceMessage::Request[m[K' {aka '[01m[Kstruct my_custom_srv_msg_pkg::MyCustomServiceMessageRequest_<std::allocator<void> >[m[K'} has no member named '[01m[Kradius[m[K'
-    7 |   ROS_INFO("Request Data==> radius=%f, repetitions=%d", req.[01;31m[Kradius[m[K, req.repetitions);
-      |                                                             [01;31m[K^~~~~~[m[K
-[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro '[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K'
-  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
-      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
-[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K'
-  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
-      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROS_LOG_COND[m[K'
-  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
-      |                                   [01;36m[K^~~~~~~~~~~~[m[K
-[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROS_LOG[m[K'
-  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
-      |                       [01;36m[K^~~~~~~[m[K
-[01m[K/home/user/catkin_ws/src/my_custom_srv_msg_pkg/src/custom_service_server.cpp:7:3:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROS_INFO[m[K'
-    7 |   [01;36m[KROS_INFO[m[K("Request Data==> radius=%f, repetitions=%d", req.radius, req.repetitions);
-      |   [01;36m[K^~~~~~~~[m[K
-[01m[K/home/user/catkin_ws/src/my_custom_srv_msg_pkg/src/custom_service_server.cpp:7:73:[m[K [01;31m[Kerror: [m[K'[01m[Kmy_custom_srv_msg_pkg::MyCustomServiceMessage::Request[m[K' {aka '[01m[Kstruct my_custom_srv_msg_pkg::MyCustomServiceMessageRequest_<std::allocator<void> >[m[K'} has no member named '[01m[Krepetitions[m[K'
-    7 |   ROS_INFO("Request Data==> radius=%f, repetitions=%d", req.radius, req.[01;31m[Krepetitions[m[K);
-      |                                                                         [01;31m[K^~~~~~~~~~~[m[K
-[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro '[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K'
-  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
-      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
-[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K'
-  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
-      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROS_LOG_COND[m[K'
-  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
-      |                                   [01;36m[K^~~~~~~~~~~~[m[K
-[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROS_LOG[m[K'
-  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
-      |                       [01;36m[K^~~~~~~[m[K
-[01m[K/home/user/catkin_ws/src/my_custom_srv_msg_pkg/src/custom_service_server.cpp:7:3:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROS_INFO[m[K'
-    7 |   [01;36m[KROS_INFO[m[K("Request Data==> radius=%f, repetitions=%d", req.radius, req.repetitions);
-      |   [01;36m[K^~~~~~~~[m[K
-[01m[K/home/user/catkin_ws/src/my_custom_srv_msg_pkg/src/custom_service_server.cpp:8:11:[m[K [01;31m[Kerror: [m[K'[01m[Kmy_custom_srv_msg_pkg::MyCustomServiceMessage::Request[m[K' {aka '[01m[Kstruct my_custom_srv_msg_pkg::MyCustomServiceMessageRequest_<std::allocator<void> >[m[K'} has no member named '[01m[Kradius[m[K'
-    8 |   if (req.[01;31m[Kradius[m[K > 5.0)
-      |           [01;31m[K^~~~~~[m[K
-make[2]: *** [CMakeFiles/custom_service_server.dir/build.make:63: CMakeFiles/custom_service_server.dir/src/custom_service_server.cpp.o] Error 1
-make[1]: *** [CMakeFiles/Makefile2:187: CMakeFiles/custom_service_server.dir/all] Error 2
-make: *** [Makefile:141: all] Error 2
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 28%] Built target my_custom_srv_msg_pkg_generate_messages_eus
+[ 57%] Built target my_custom_srv_msg_pkg_generate_messages_py
+[ 71%] Built target my_custom_srv_msg_pkg_generate_messages_nodejs
+[ 85%] Built target my_custom_srv_msg_pkg_generate_messages_cpp
+[100%] Built target my_custom_srv_msg_pkg_generate_messages_lisp
+[100%] Built target my_custom_srv_msg_pkg_generate_messages

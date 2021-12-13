@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/action_server_pkg/lib/pkgconfig/action_server_pkg.pc

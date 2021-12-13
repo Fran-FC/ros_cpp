@@ -1,0 +1,24 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target simple_service_client[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/simple_service_client.dir/src/simple_service_client.cpp.o[0m
+[01m[K/home/user/catkin_ws/src/service_client_pkg/src/simple_service_client.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Ktrajectory_by_name_srv/TrajByName.h: No such file or directory
+    2 | #include [01;31m[K"trajectory_by_name_srv/TrajByName.h"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/simple_service_client.dir/build.make:63: CMakeFiles/simple_service_client.dir/src/simple_service_client.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:277: CMakeFiles/simple_service_client.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

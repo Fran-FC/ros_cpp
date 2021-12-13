@@ -1,0 +1,4 @@
+Linked: (/home/user/catkin_ws/devel/.private/service_server_pkg/lib/service_server_pkg/simple_service_server, /home/user/catkin_ws/devel/lib/service_server_pkg/simple_service_server)
+Linked: (/home/user/catkin_ws/devel/.private/service_server_pkg/lib/pkgconfig/service_server_pkg.pc, /home/user/catkin_ws/devel/lib/pkgconfig/service_server_pkg.pc)
+Linked: (/home/user/catkin_ws/devel/.private/service_server_pkg/share/service_server_pkg/cmake/service_server_pkgConfig-version.cmake, /home/user/catkin_ws/devel/share/service_server_pkg/cmake/service_server_pkgConfig-version.cmake)
+Linked: (/home/user/catkin_ws/devel/.private/service_server_pkg/share/service_server_pkg/cmake/service_server_pkgConfig.cmake, /home/user/catkin_ws/devel/share/service_server_pkg/cmake/service_server_pkgConfig.cmake)

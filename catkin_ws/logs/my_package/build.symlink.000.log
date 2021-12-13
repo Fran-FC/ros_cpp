@@ -1,0 +1,4 @@
+Symlinking /home/user/catkin_ws/devel/lib/my_package/simple
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/my_package.pc
+Symlinking /home/user/catkin_ws/devel/share/my_package/cmake/my_packageConfig-version.cmake
+Symlinking /home/user/catkin_ws/devel/share/my_package/cmake/my_packageConfig.cmake

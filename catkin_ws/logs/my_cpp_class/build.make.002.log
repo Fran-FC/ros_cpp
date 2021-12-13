@@ -1,0 +1,23 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[ 50%] [32mBuilding CXX object CMakeFiles/bb8_move_circle_class.dir/src/bb8_move_circle_class.cpp.o[0m
+[01m[K/home/user/catkin_ws/src/my_cpp_class/src/bb8_move_circle_class.cpp:4:10:[m[K [01;31m[Kfatal error: [m[Kservices_quiz/MyCustomServiceMessage.h: No such file or directory
+    4 | #include [01;31m[K"services_quiz/MyCustomServiceMessage.h"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/bb8_move_circle_class.dir/build.make:63: CMakeFiles/bb8_move_circle_class.dir/src/bb8_move_circle_class.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:331: CMakeFiles/bb8_move_circle_class.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

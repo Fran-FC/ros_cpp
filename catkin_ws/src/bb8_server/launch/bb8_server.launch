@@ -1,0 +1,11 @@
+<launch>
+
+
+<node pkg="bb8_server" 
+name="bb8_server" 
+type="bb8_server" 
+output="screen"> 
+</node>
+
+
+</launch>

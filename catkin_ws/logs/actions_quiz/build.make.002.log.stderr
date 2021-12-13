@@ -1,0 +1,10 @@
+[01m[K/home/user/catkin_ws/src/actions_quiz/src/custom_action.cpp:[m[K In member function '[01m[Kvoid CustomAction::executeCB(const CustomActionMsgGoalConstPtr&)[m[K':
+[01m[K/home/user/catkin_ws/src/actions_quiz/src/custom_action.cpp:98:36:[m[K [01;31m[Kerror: [m[Kinvalid cast from type '[01m[Kconst _goal_type[m[K' {aka '[01m[Kconst std::__cxx11::basic_string<char>[m[K'} to type '[01m[Kconst char*[m[K'
+   98 |     if(strcmp((const char *) goal->[01;31m[Kgoal[m[K, "TAKEOFF")) {
+      |                                    [01;31m[K^~~~[m[K
+[01m[K/home/user/catkin_ws/src/actions_quiz/src/custom_action.cpp:100:44:[m[K [01;31m[Kerror: [m[Kinvalid cast from type '[01m[Kconst _goal_type[m[K' {aka '[01m[Kconst std::__cxx11::basic_string<char>[m[K'} to type '[01m[Kconst char*[m[K'
+  100 |     } else if (strcmp((const char *) goal->[01;31m[Kgoal[m[K, "LAND")) {
+      |                                            [01;31m[K^~~~[m[K
+make[2]: *** [CMakeFiles/actions.dir/build.make:63: CMakeFiles/actions.dir/src/custom_action.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:211: CMakeFiles/actions.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

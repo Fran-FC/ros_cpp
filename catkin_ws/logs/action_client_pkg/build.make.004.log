@@ -1,0 +1,60 @@
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target no_wait[0m
+[35m[1mScanning dependencies of target wait[0m
+[35m[1mScanning dependencies of target ardrone_action_client[0m
+[35m[1mScanning dependencies of target cancel[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/ardrone_action_client.dir/src/ardrone_action_client.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/no_wait.dir/src/no_wait_for_the_result_test.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/cancel.dir/src/cancel_goal_test.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/wait.dir/src/wait_for_the_result_test.cpp.o[0m
+[01m[K/home/user/catkin_ws/src/action_client_pkg/src/wait_for_the_result_test.cpp:1:10:[m[K [01;31m[Kfatal error: [m[Kardrone_as/ArdroneAction.h: No such file or directory
+    1 | #include [01;31m[K<ardrone_as/ArdroneAction.h>[m[K // Note: "Action" is appended
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/wait.dir/build.make:63: CMakeFiles/wait.dir/src/wait_for_the_result_test.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:249: CMakeFiles/wait.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[01m[K/home/user/catkin_ws/src/action_client_pkg/src/cancel_goal_test.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kardrone_as/ArdroneAction.h: No such file or directory
+    2 | #include [01;31m[K<ardrone_as/ArdroneAction.h>[m[K // Note: "Action" is appended
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/cancel.dir/build.make:63: CMakeFiles/cancel.dir/src/cancel_goal_test.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:197: CMakeFiles/cancel.dir/all] Error 2
+[01m[K/home/user/catkin_ws/src/action_client_pkg/src/no_wait_for_the_result_test.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kardrone_as/ArdroneAction.h: No such file or directory
+    2 | #include [01;31m[K<ardrone_as/ArdroneAction.h>[m[K // Note: "Action" is appended
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/no_wait.dir/build.make:63: CMakeFiles/no_wait.dir/src/no_wait_for_the_result_test.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:515: CMakeFiles/no_wait.dir/all] Error 2
+[01m[K/home/user/catkin_ws/src/action_client_pkg/src/ardrone_action_client.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kardrone_as/ArdroneAction.h: No such file or directory
+    2 | #include [01;31m[K<ardrone_as/ArdroneAction.h>[m[K // Note: "Action" is appended
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/ardrone_action_client.dir/build.make:63: CMakeFiles/ardrone_action_client.dir/src/ardrone_action_client.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:301: CMakeFiles/ardrone_action_client.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/actions_quiz/share/actions_quiz/cmake/actions_quizConfig.cmake

@@ -215,7 +215,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=topics_quiz_pkg
+CMAKE_PROJECT_NAME:STATIC=topics_quiz
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION:STATIC=1.10.0
@@ -350,7 +350,7 @@ RT_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/librt.so
 SETUPTOOLS_DEB_LAYOUT:BOOL=ON
 
 //Name of the computer/site where compile is being run
-SITE:STRING=1_xterm
+SITE:STRING=3_xterm
 
 //LSB Distrib tag
 UBUNTU:BOOL=TRUE
@@ -375,9 +375,6 @@ catkin_DIR:PATH=/opt/ros/noetic/share/catkin/cmake
 
 //The directory containing a CMake configuration file for cpp_common.
 cpp_common_DIR:PATH=/opt/ros/noetic/share/cpp_common/cmake
-
-//The directory containing a CMake configuration file for geometry_msgs.
-geometry_msgs_DIR:PATH=/opt/ros/noetic/share/geometry_msgs/cmake
 
 //Value Computed by CMake
 gmock_BINARY_DIR:STATIC=/home/user/catkin_ws/build/topics_quiz/gtest/googlemock
@@ -449,9 +446,6 @@ rosgraph_msgs_DIR:PATH=/opt/ros/noetic/share/rosgraph_msgs/cmake
 //The directory containing a CMake configuration file for rostime.
 rostime_DIR:PATH=/opt/ros/noetic/share/rostime/cmake
 
-//The directory containing a CMake configuration file for sensor_msgs.
-sensor_msgs_DIR:PATH=/opt/ros/noetic/share/sensor_msgs/cmake
-
 //The directory containing a CMake configuration file for std_msgs.
 std_msgs_DIR:PATH=/opt/ros/noetic/share/std_msgs/cmake
 
@@ -460,12 +454,6 @@ topics_quiz_BINARY_DIR:STATIC=/home/user/catkin_ws/build/topics_quiz
 
 //Value Computed by CMake
 topics_quiz_SOURCE_DIR:STATIC=/home/user/catkin_ws/src/topics_quiz
-
-//Value Computed by CMake
-topics_quiz_pkg_BINARY_DIR:STATIC=/home/user/catkin_ws/build/topics_quiz
-
-//Value Computed by CMake
-topics_quiz_pkg_SOURCE_DIR:STATIC=/home/user/catkin_ws/src/topics_quiz
 
 //The directory containing a CMake configuration file for xmlrpcpp.
 xmlrpcpp_DIR:PATH=/opt/ros/noetic/share/xmlrpcpp/cmake

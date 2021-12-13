@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/services_quiz/share/common-lisp/ros/services_quiz/srv/_package_BB8CustomServiceMessage.lisp

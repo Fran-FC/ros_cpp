@@ -1,0 +1,4 @@
+Symlinking /home/user/catkin_ws/devel/lib/my_cpp_class/bb8_move_circle_class
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/my_cpp_class.pc
+Symlinking /home/user/catkin_ws/devel/share/my_cpp_class/cmake/my_cpp_classConfig-version.cmake
+Symlinking /home/user/catkin_ws/devel/share/my_cpp_class/cmake/my_cpp_classConfig.cmake

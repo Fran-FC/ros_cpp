@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/services_quiz/share/roseus/ros/services_quiz/manifest.l

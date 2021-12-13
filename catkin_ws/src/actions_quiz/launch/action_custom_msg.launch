@@ -1,0 +1,8 @@
+<launch>
+    <node
+        pkg="actions_quiz"
+        name="custom_actions_quiz"
+        type="actions"
+        output="screen">
+    </node>
+</launch>

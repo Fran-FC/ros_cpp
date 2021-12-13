@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/my_cpp_class/share/gennodejs/ros/my_cpp_class/srv/_index.js

@@ -1,0 +1,8 @@
+[31m[1mCMake Error[0m at /opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake:151 (message):
+  add_service_files() directory not found:
+  /home/user/catkin_ws/src/my_cpp_class/srv
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:61 (add_service_files)
+
+
+make: *** [Makefile:574: cmake_check_build_system] Error 1

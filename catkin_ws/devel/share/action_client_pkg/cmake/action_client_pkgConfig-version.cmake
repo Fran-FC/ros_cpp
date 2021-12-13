@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/action_client_pkg/share/action_client_pkg/cmake/action_client_pkgConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/my_custom_srv_msg_pkg/share/common-lisp/ros/my_custom_srv_msg_pkg/srv/_package_MyCustomServiceMessage.lisp

@@ -1,0 +1,4 @@
+Symlinking /home/user/catkin_ws/devel/lib/topic_publisher_pkg/simple_topic_publisher
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/topic_publisher_pkg.pc
+Symlinking /home/user/catkin_ws/devel/share/topic_publisher_pkg/cmake/topic_publisher_pkgConfig-version.cmake
+Symlinking /home/user/catkin_ws/devel/share/topic_publisher_pkg/cmake/topic_publisher_pkgConfig.cmake

@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/actions_quiz/share/common-lisp/ros/actions_quiz/msg/_package_CustomActionMsgGoal.lisp

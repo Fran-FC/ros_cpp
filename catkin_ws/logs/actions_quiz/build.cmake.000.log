@@ -37,5 +37,17 @@ Not searching for unused variables given on the command line.
 Generating for action CustomActionMsg
 [36m--[0m actions_quiz: 7 messages, 0 services
 [36m--[0m Configuring done
-[36m--[0m Generating done
-[36m--[0m Build files have been written to: /home/user/catkin_ws/build/actions_quiz
+[31m[1mCMake Error[0m at /home/user/catkin_ws/src/actions_quiz/CMakeLists.txt:220 (add_executable):
+  Cannot find source file:
+
+    src/custom_action.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+[31m[1mCMake Error[0m at /home/user/catkin_ws/src/actions_quiz/CMakeLists.txt:220 (add_executable):
+  No SOURCES given to target: actions
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

@@ -1,0 +1,7 @@
+<launch>
+    <node
+        pkg="action_client_pkg"
+        name="wait_for_the_result"
+        type="no_wait">
+    </node>
+</launch>

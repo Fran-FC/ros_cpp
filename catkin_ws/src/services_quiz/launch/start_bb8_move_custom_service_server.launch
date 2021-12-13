@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="services_quiz" 
+    name="bb8_service_server" 
+    type="bb8_move_custom_service_server" 
+    output="screen"> 
+    </node>
+</launch>

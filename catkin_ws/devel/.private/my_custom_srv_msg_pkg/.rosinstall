@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/user/catkin_ws/devel/.private/my_custom_srv_msg_pkg/setup.sh

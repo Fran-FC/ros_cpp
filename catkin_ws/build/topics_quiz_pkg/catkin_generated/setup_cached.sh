@@ -8,6 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/user/catkin_ws/devel/.private/topics_quiz_pkg:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/user/catkin_ws/devel/.private/topics_quiz_pkg/lib:$LD_LIBRARY_PATH"
 export PWD='/home/user/catkin_ws/build/topics_quiz_pkg'
 export ROSLISP_PACKAGE_DIRECTORIES="/home/user/catkin_ws/devel/.private/topics_quiz_pkg/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/user/catkin_ws/src/topics_quiz:$ROS_PACKAGE_PATH"

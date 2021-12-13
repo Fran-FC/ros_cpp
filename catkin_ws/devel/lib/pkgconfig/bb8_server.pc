@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/bb8_server/lib/pkgconfig/bb8_server.pc

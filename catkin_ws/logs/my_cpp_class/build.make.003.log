@@ -1,0 +1,40 @@
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target _my_cpp_class_generate_messages_check_deps_MyCustomServiceMessage[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target bb8_move_circle_class[0m
+[  0%] Built target _my_cpp_class_generate_messages_check_deps_MyCustomServiceMessage
+[35m[1mScanning dependencies of target my_cpp_class_generate_messages_eus[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/bb8_move_circle_class.dir/src/bb8_move_circle_class.cpp.o[0m
+[35m[1mScanning dependencies of target my_cpp_class_generate_messages_py[0m
+[35m[1mScanning dependencies of target my_cpp_class_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target my_cpp_class_generate_messages_lisp[0m
+[ 22%] [34m[1mGenerating EusLisp code from my_cpp_class/MyCustomServiceMessage.srv[0m
+[35m[1mScanning dependencies of target my_cpp_class_generate_messages_nodejs[0m
+[ 33%] [34m[1mGenerating Python code from SRV my_cpp_class/MyCustomServiceMessage[0m
+[ 44%] [34m[1mGenerating C++ code from my_cpp_class/MyCustomServiceMessage.srv[0m
+[ 55%] [34m[1mGenerating EusLisp manifest code for my_cpp_class[0m
+[ 66%] [34m[1mGenerating Lisp code from my_cpp_class/MyCustomServiceMessage.srv[0m
+[ 77%] [34m[1mGenerating Javascript code from my_cpp_class/MyCustomServiceMessage.srv[0m
+[ 77%] Built target my_cpp_class_generate_messages_nodejs
+[ 77%] Built target my_cpp_class_generate_messages_lisp
+[ 88%] [34m[1mGenerating Python srv __init__.py for my_cpp_class[0m
+[ 88%] Built target my_cpp_class_generate_messages_py
+[ 88%] Built target my_cpp_class_generate_messages_cpp
+[ 88%] Built target my_cpp_class_generate_messages_eus
+[35m[1mScanning dependencies of target my_cpp_class_generate_messages[0m
+[ 88%] Built target my_cpp_class_generate_messages
+[100%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/my_cpp_class/lib/my_cpp_class/bb8_move_circle_class[0m
+[100%] Built target bb8_move_circle_class

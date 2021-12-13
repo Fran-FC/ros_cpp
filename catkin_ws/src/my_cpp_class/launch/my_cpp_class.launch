@@ -1,0 +1,5 @@
+<launch>
+    <!-- Start Service Server for move_bb8_in_circle service -->
+    <node pkg="my_cpp_class" type="bb8_move_circle_class" name="move_bb8_node"  output="screen">
+    </node>
+</launch>

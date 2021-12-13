@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/services_quiz/share/services_quiz/cmake/services_quiz-msg-paths.cmake

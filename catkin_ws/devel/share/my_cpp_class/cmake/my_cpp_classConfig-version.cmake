@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/my_cpp_class/share/my_cpp_class/cmake/my_cpp_classConfig-version.cmake

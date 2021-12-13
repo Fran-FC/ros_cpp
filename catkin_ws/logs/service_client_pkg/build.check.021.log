@@ -1,0 +1,39 @@
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/user/catkin_ws/devel/.private/service_client_pkg
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/user/catkin_ws/devel;/home/simulations/public_sim_ws/devel;/opt/ros/noetic
+[36m--[0m This workspace overlays: /home/user/catkin_ws/devel;/home/simulations/public_sim_ws/devel;/opt/ros/noetic
+[36m--[0m Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.5", minimum required is "3")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python3
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/lib/python3/dist-packages/em.py
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/user/catkin_ws/build/service_client_pkg/test_results
+[36m--[0m Forcing gtest/gmock from source, though one was otherwise available.
+[36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
+[36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
+[36m--[0m Found PythonInterp: /usr/bin/python3 (found version "3.8.5")
+[36m--[0m Using Python nosetests: /usr/bin/nosetests3
+[36m--[0m catkin 0.8.9
+[36m--[0m BUILD_SHARED_LIBS is on
+[36m--[0m Could NOT find iri_wam_reproduce_trajectory (missing: iri_wam_reproduce_trajectory_DIR)
+[36m--[0m Could not find the required component 'iri_wam_reproduce_trajectory'. The following CMake error indicates that you either need to install the package with the same name or change your environment so that it can be found.
+[31m[1mCMake Error[0m at /opt/ros/noetic/share/catkin/cmake/catkinConfig.cmake:83 (find_package):
+  Could not find a package configuration file provided by
+  "iri_wam_reproduce_trajectory" with any of the following names:
+
+    iri_wam_reproduce_trajectoryConfig.cmake
+    iri_wam_reproduce_trajectory-config.cmake
+
+  Add the installation prefix of "iri_wam_reproduce_trajectory" to
+  CMAKE_PREFIX_PATH or set "iri_wam_reproduce_trajectory_DIR" to a directory
+  containing one of the above files.  If "iri_wam_reproduce_trajectory"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:10 (find_package)
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/user/catkin_ws/build/service_client_pkg/CMakeFiles/CMakeOutput.log".
+See also "/home/user/catkin_ws/build/service_client_pkg/CMakeFiles/CMakeError.log".
+make: *** [Makefile:924: cmake_check_build_system] Error 1

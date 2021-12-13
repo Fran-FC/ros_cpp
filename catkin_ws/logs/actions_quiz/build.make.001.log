@@ -1,51 +1,73 @@
 [  0%] Built target roscpp_generate_messages_eus
-[  0%] Built target std_msgs_generate_messages_eus
-[  0%] Built target roscpp_generate_messages_nodejs
-[  0%] Built target rosgraph_msgs_generate_messages_cpp
-[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgResult
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionFeedback
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionGoal
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgGoal
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionResult
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgAction
 [  0%] Built target std_msgs_generate_messages_lisp
-[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgFeedback
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_eus
 [  0%] Built target rosgraph_msgs_generate_messages_py
-[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_py
 [  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
 [  0%] Built target rosgraph_msgs_generate_messages_nodejs
 [  0%] Built target actionlib_msgs_generate_messages_py
 [  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
 [  0%] Built target std_msgs_generate_messages_nodejs
-[  0%] Built target std_msgs_generate_messages_py
-[  0%] Built target actionlib_msgs_generate_messages_nodejs
-[  0%] Built target actionlib_generate_messages_py
-[  0%] Built target rosgraph_msgs_generate_messages_eus
-[  0%] Built target actionlib_msgs_generate_messages_cpp
-[  0%] Built target actionlib_generate_messages_eus
-[  0%] Built target roscpp_generate_messages_lisp
-[  0%] Built target _catkin_empty_exported_target
-[  0%] Built target actionlib_generate_messages_lisp
-[  0%] Built target roscpp_generate_messages_py
-[  0%] Built target actionlib_generate_messages_nodejs
-[  0%] Built target roscpp_generate_messages_cpp
-[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgResult
-[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionResult
-[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgGoal
-[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionGoal
-[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgAction
-[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgFeedback
-[  0%] Built target _actions_quiz_generate_messages_check_deps_CustomActionMsgActionFeedback
-[  2%] [32mBuilding CXX object CMakeFiles/action_custom_robot.dir/src/action_custom_robot.cpp.o[0m
-[ 23%] Built target actions_quiz_generate_messages_py
-[ 41%] Built target actions_quiz_generate_messages_lisp
-[ 61%] Built target actions_quiz_generate_messages_eus
-[ 79%] Built target actions_quiz_generate_messages_cpp
-[35m[1mScanning dependencies of target actions_quiz_generate_messages_nodejs[0m
-[ 82%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgAction.msg[0m
-[ 84%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgActionGoal.msg[0m
-[ 87%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgActionResult.msg[0m
-[ 89%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgActionFeedback.msg[0m
-[ 92%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgResult.msg[0m
-[ 94%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgGoal.msg[0m
-[ 97%] [34m[1mGenerating Javascript code from actions_quiz/CustomActionMsgFeedback.msg[0m
-[ 97%] Built target actions_quiz_generate_messages_nodejs
-[35m[1mScanning dependencies of target actions_quiz_generate_messages[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[ 17%] Built target actions_quiz_generate_messages_lisp
+[ 35%] Built target actions_quiz_generate_messages_nodejs
+[ 35%] Built target std_msgs_generate_messages_py
+[ 35%] Built target roscpp_generate_messages_cpp
+[ 56%] Built target actions_quiz_generate_messages_eus
+[ 74%] Built target actions_quiz_generate_messages_cpp
+[35m[1mScanning dependencies of target actions[0m
+[ 94%] Built target actions_quiz_generate_messages_py
+[ 97%] [32mBuilding CXX object CMakeFiles/actions.dir/src/custom_action.cpp.o[0m
 [ 97%] Built target actions_quiz_generate_messages
-[100%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/actions_quiz/lib/actions_quiz/action_custom_robot[0m
-[100%] Built target action_custom_robot
+[01m[K/home/user/catkin_ws/src/actions_quiz/src/custom_action.cpp:[m[K In member function '[01m[Kvoid CustomAction::executeCB(const CustomActionMsgGoalConstPtr&)[m[K':
+[01m[K/home/user/catkin_ws/src/actions_quiz/src/custom_action.cpp:98:21:[m[K [01;31m[Kerror: [m[Kcannot convert '[01m[Kconst _goal_type[m[K' {aka '[01m[Kconst std::__cxx11::basic_string<char>[m[K'} to '[01m[Kconst char*[m[K'
+   98 |     if(strcmp([01;31m[Kgoal->goal[m[K, "TAKEOFF")) {
+      |               [01;31m[K~~~~~~^~~~[m[K
+      |                     [01;31m[K|[m[K
+      |                     [01;31m[Kconst _goal_type {aka const std::__cxx11::basic_string<char>}[m[K
+In file included from [01m[K/usr/include/c++/9/cstring:42[m[K,
+                 from [01m[K/usr/include/boost/math/policies/error_handling.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:14[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/user/catkin_ws/src/actions_quiz/src/custom_action.cpp:1[m[K:
+[01m[K/usr/include/string.h:137:32:[m[K [01;36m[Knote: [m[K  initializing argument 1 of '[01m[Kint strcmp(const char*, const char*)[m[K'
+  137 | extern int strcmp ([01;36m[Kconst char *__s1[m[K, const char *__s2)
+      |                    [01;36m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/user/catkin_ws/src/actions_quiz/src/custom_action.cpp:100:29:[m[K [01;31m[Kerror: [m[Kcannot convert '[01m[Kconst _goal_type[m[K' {aka '[01m[Kconst std::__cxx11::basic_string<char>[m[K'} to '[01m[Kconst char*[m[K'
+  100 |     } else if (strcmp([01;31m[Kgoal->goal[m[K, "LAND")) {
+      |                       [01;31m[K~~~~~~^~~~[m[K
+      |                             [01;31m[K|[m[K
+      |                             [01;31m[Kconst _goal_type {aka const std::__cxx11::basic_string<char>}[m[K
+In file included from [01m[K/usr/include/c++/9/cstring:42[m[K,
+                 from [01m[K/usr/include/boost/math/policies/error_handling.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:14[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/user/catkin_ws/src/actions_quiz/src/custom_action.cpp:1[m[K:
+[01m[K/usr/include/string.h:137:32:[m[K [01;36m[Knote: [m[K  initializing argument 1 of '[01m[Kint strcmp(const char*, const char*)[m[K'
+  137 | extern int strcmp ([01;36m[Kconst char *__s1[m[K, const char *__s2)
+      |                    [01;36m[K~~~~~~~~~~~~^~~~[m[K
+make[2]: *** [CMakeFiles/actions.dir/build.make:63: CMakeFiles/actions.dir/src/custom_action.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:211: CMakeFiles/actions.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

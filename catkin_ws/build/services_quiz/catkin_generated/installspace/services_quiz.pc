@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: services_quiz
+Description: Description of services_quiz
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp

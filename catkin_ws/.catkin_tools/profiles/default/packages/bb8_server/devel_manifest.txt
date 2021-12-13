@@ -1,0 +1,7 @@
+bb8_server
+/home/user/catkin_ws/devel/.private/bb8_server/cmake.lock /home/user/catkin_ws/devel/./cmake.lock
+/home/user/catkin_ws/devel/.private/bb8_server/lib/pkgconfig/bb8_server.pc /home/user/catkin_ws/devel/lib/pkgconfig/bb8_server.pc
+/home/user/catkin_ws/devel/.private/bb8_server/lib/bb8_server/bb8_server /home/user/catkin_ws/devel/lib/bb8_server/bb8_server
+/home/user/catkin_ws/devel/.private/bb8_server/lib/bb8_server/bb8_client /home/user/catkin_ws/devel/lib/bb8_server/bb8_client
+/home/user/catkin_ws/devel/.private/bb8_server/share/bb8_server/cmake/bb8_serverConfig.cmake /home/user/catkin_ws/devel/share/bb8_server/cmake/bb8_serverConfig.cmake
+/home/user/catkin_ws/devel/.private/bb8_server/share/bb8_server/cmake/bb8_serverConfig-version.cmake /home/user/catkin_ws/devel/share/bb8_server/cmake/bb8_serverConfig-version.cmake

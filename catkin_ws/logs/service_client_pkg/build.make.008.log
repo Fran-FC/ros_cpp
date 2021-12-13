@@ -1,0 +1,82 @@
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target iri_wam_reproduce_trajectory_generate_messages_py
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target iri_wam_reproduce_trajectory_generate_messages_nodejs
+[  0%] Built target iri_wam_reproduce_trajectory_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target iri_wam_reproduce_trajectory_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target iri_wam_reproduce_trajectory_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target simple_service_client[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/simple_service_client.dir/src/simple_service_client.cpp.o[0m
+[01m[K/home/user/catkin_ws/src/service_client_pkg/src/simple_service_client.cpp:[m[K In function '[01m[Kint main(int, char**)[m[K':
+[01m[K/home/user/catkin_ws/src/service_client_pkg/src/simple_service_client.cpp:12:3:[m[K [01;31m[Kerror: [m[K'[01m[Ktrajectory[m[K' was not declared in this scope
+   12 |   [01;31m[Ktrajectory[m[K.request.file = ros::package::getPath("iri_wam_reproduce_trajectory") + "/config/get_food.txt";
+      |   [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/service_client_pkg/src/simple_service_client.cpp:14:62:[m[K [01;31m[Kerror: [m[K'[01m[Ktrajectory_by_name_srv[m[K' was not declared in this scope
+   14 |   ros::ServiceClient traj_by_name_service = nh.serviceClient<[01;31m[Ktrajectory_by_name_srv[m[K::TrajByName>("/execute_trajectory");
+      |                                                              [01;31m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/service_client_pkg/src/simple_service_client.cpp:14:48:[m[K [01;31m[Kerror: [m[Kparse error in template argument list
+   14 |   ros::ServiceClient traj_by_name_service = nh.[01;31m[KserviceClient<trajectory_by_name_srv::TrajByName>[m[K("/execute_trajectory");
+      |                                                [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/service_client_pkg/src/simple_service_client.cpp:14:119:[m[K [01;31m[Kerror: [m[Kno matching function for call to '[01m[Kros::NodeHandle::serviceClient<<expression error> >(const char [20])[m[K'
+   14 |   ros::ServiceClient traj_by_name_service = nh.serviceClient<trajectory_by_name_srv::TrajByName>("/execute_trajectory"[01;31m[K)[m[K;
+      |                                                                                                                       [01;31m[K^[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/user/catkin_ws/src/service_client_pkg/src/simple_service_client.cpp:1[m[K:
+[01m[K/opt/ros/noetic/include/ros/node_handle.h:1240:17:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class MReq, class MRes> ros::ServiceClient ros::NodeHandle::serviceClient(const string&, bool, const M_string&)[m[K'
+ 1240 |   ServiceClient [01;36m[KserviceClient[m[K(const std::string& service_name, bool persistent = false,
+      |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/node_handle.h:1240:17:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/user/catkin_ws/src/service_client_pkg/src/simple_service_client.cpp:14:119:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+   14 |   ros::ServiceClient traj_by_name_service = nh.serviceClient<trajectory_by_name_srv::TrajByName>("/execute_trajectory"[01;31m[K)[m[K;
+      |                                                                                                                       [01;31m[K^[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/user/catkin_ws/src/service_client_pkg/src/simple_service_client.cpp:1[m[K:
+[01m[K/opt/ros/noetic/include/ros/node_handle.h:1260:17:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class Service> ros::ServiceClient ros::NodeHandle::serviceClient(const string&, bool, const M_string&)[m[K'
+ 1260 |   ServiceClient [01;36m[KserviceClient[m[K(const std::string& service_name, bool persistent = false,
+      |                 [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/node_handle.h:1260:17:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/user/catkin_ws/src/service_client_pkg/src/simple_service_client.cpp:14:119:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+   14 |   ros::ServiceClient traj_by_name_service = nh.serviceClient<trajectory_by_name_srv::TrajByName>("/execute_trajectory"[01;31m[K)[m[K;
+      |                                                                                                                       [01;31m[K^[m[K
+[01m[K/home/user/catkin_ws/src/service_client_pkg/src/simple_service_client.cpp:15:3:[m[K [01;31m[Kerror: [m[K'[01m[Ktrajectory_by_name_srv[m[K' is not a class, namespace, or enumeration
+   15 |   [01;31m[Ktrajectory_by_name_srv[m[K::TrajByName srv; // Create an object of type TrajByName
+      |   [01;31m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/user/catkin_ws/src/service_client_pkg/src/simple_service_client.cpp:16:3:[m[K [01;31m[Kerror: [m[K'[01m[Ksrv[m[K' was not declared in this scope
+   16 |   [01;31m[Ksrv[m[K.request.traj_name = "release_food"; // Fill the variable traj_name with the desired value
+      |   [01;31m[K^~~[m[K
+make[2]: *** [CMakeFiles/simple_service_client.dir/build.make:63: CMakeFiles/simple_service_client.dir/src/simple_service_client.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:1245: CMakeFiles/simple_service_client.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/my_custom_srv_msg_pkg/share/gennodejs/ros/my_custom_srv_msg_pkg/srv/MyCustomServiceMessage.js

@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel/.private/service_client_pkg
+
+Name: service_client_pkg
+Description: Description of service_client_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp roslib iri_wam_reproduce_trajectory

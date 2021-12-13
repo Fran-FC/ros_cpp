@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: my_custom_srv_msg_pkg
+Description: Description of my_custom_srv_msg_pkg
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp

@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/actions_quiz/share/roseus/ros/actions_quiz/msg/CustomActionMsgResult.l

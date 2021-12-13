@@ -1,0 +1,68 @@
+[01m[K/home/user/catkin_ws/src/bb8_server/src/bb8_client.cpp:[m[K In function '[01m[Kint main(int, char**)[m[K':
+[01m[K/home/user/catkin_ws/src/bb8_server/src/bb8_client.cpp:14:51:[m[K [01;31m[Kerror: [m[Kno matching function for call to '[01m[Kstd_srvs::EmptyRequest_<std::allocator<void> >::EmptyRequest_(const char [3])[m[K'
+   14 |   empty->request = new std_srvs::EmptyRequest("{}"[01;31m[K)[m[K;
+      |                                                   [01;31m[K^[m[K
+In file included from [01m[K/opt/ros/noetic/include/std_srvs/Empty.h:11[m[K,
+                 from [01m[K/home/user/catkin_ws/src/bb8_server/src/bb8_client.cpp:2[m[K:
+[01m[K/opt/ros/noetic/include/std_srvs/EmptyRequest.h:29:3:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Kstd_srvs::EmptyRequest_<ContainerAllocator>::EmptyRequest_(const ContainerAllocator&) [with ContainerAllocator = std::allocator<void>][m[K'
+   29 |   [01;36m[KEmptyRequest_[m[K(const ContainerAllocator& _alloc)
+      |   [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/std_srvs/EmptyRequest.h:29:43:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from '[01m[Kconst char [3][m[K' to '[01m[Kconst std::allocator<void>&[m[K'
+   29 |   EmptyRequest_([01;36m[Kconst ContainerAllocator& _alloc[m[K)
+      |                 [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~[m[K
+[01m[K/opt/ros/noetic/include/std_srvs/EmptyRequest.h:26:3:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Kstd_srvs::EmptyRequest_<ContainerAllocator>::EmptyRequest_() [with ContainerAllocator = std::allocator<void>][m[K'
+   26 |   [01;36m[KEmptyRequest_[m[K()
+      |   [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/std_srvs/EmptyRequest.h:26:3:[m[K [01;36m[Knote: [m[K  candidate expects 0 arguments, 1 provided
+[01m[K/opt/ros/noetic/include/std_srvs/EmptyRequest.h:22:8:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Kconstexpr std_srvs::EmptyRequest_<std::allocator<void> >::EmptyRequest_(const std_srvs::EmptyRequest_<std::allocator<void> >&)[m[K'
+   22 | struct [01;36m[KEmptyRequest_[m[K
+      |        [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/std_srvs/EmptyRequest.h:22:8:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from '[01m[Kconst char [3][m[K' to '[01m[Kconst std_srvs::EmptyRequest_<std::allocator<void> >&[m[K'
+[01m[K/opt/ros/noetic/include/std_srvs/EmptyRequest.h:22:8:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Kconstexpr std_srvs::EmptyRequest_<std::allocator<void> >::EmptyRequest_(std_srvs::EmptyRequest_<std::allocator<void> >&&)[m[K'
+[01m[K/opt/ros/noetic/include/std_srvs/EmptyRequest.h:22:8:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from '[01m[Kconst char [3][m[K' to '[01m[Kstd_srvs::EmptyRequest_<std::allocator<void> >&&[m[K'
+In file included from [01m[K/opt/ros/noetic/include/ros/service_client.h:33[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/node_handle.h:35[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/user/catkin_ws/src/bb8_server/src/bb8_client.cpp:1[m[K:
+/opt/ros/noetic/include/ros/service_traits.h: In instantiation of '[01m[Kstatic const char* ros::service_traits::MD5Sum<M>::value(const M&) [with M = std_srvs::Empty*][m[K':
+[01m[K/opt/ros/noetic/include/ros/service_traits.h:97:102:[m[K   required from '[01m[Kconst char* ros::service_traits::md5sum(const M&) [with M = std_srvs::Empty*][m[K'
+[01m[K/opt/ros/noetic/include/ros/service_client.h:65:26:[m[K   required from '[01m[Kbool ros::ServiceClient::call(MReq&, MRes&) [with MReq = std_srvs::Empty*; MRes = std_srvs::Empty*][m[K'
+[01m[K/home/user/catkin_ws/src/bb8_server/src/bb8_client.cpp:16:36:[m[K   required from here
+[01m[K/opt/ros/noetic/include/ros/service_traits.h:52:14:[m[K [01;31m[Kerror: [m[Krequest for member '[01m[K__getServerMD5Sum[m[K' in '[01m[Km[m[K', which is of pointer type '[01m[Kstd_srvs::Empty* const[m[K' (maybe you meant to use '[01m[K->[m[K' ?)
+   52 |     return [01;31m[Km.__getServerMD5Sum[m[K().c_str();
+      |            [01;31m[K~~^~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/publisher.h:34[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/node_handle.h:32[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/user/catkin_ws/src/bb8_server/src/bb8_client.cpp:1[m[K:
+/opt/ros/noetic/include/ros/serialization.h: In instantiation of '[01m[Kstatic uint32_t ros::serialization::Serializer<T>::serializedLength(typename boost::call_traits<T>::param_type) [with T = std_srvs::Empty*; uint32_t = unsigned int; typename boost::call_traits<T>::param_type = std_srvs::Empty* const][m[K':
+[01m[K/opt/ros/noetic/include/ros/serialization.h:172:41:[m[K   required from '[01m[Kuint32_t ros::serialization::serializationLength(const T&) [with T = std_srvs::Empty*; uint32_t = unsigned int][m[K'
+[01m[K/opt/ros/noetic/include/ros/serialization.h:807:37:[m[K   required from '[01m[Kros::SerializedMessage ros::serialization::serializeMessage(const M&) [with M = std_srvs::Empty*][m[K'
+[01m[K/opt/ros/noetic/include/ros/service_client.h:101:54:[m[K   required from '[01m[Kbool ros::ServiceClient::call(const MReq&, MRes&, const string&) [with MReq = std_srvs::Empty*; MRes = std_srvs::Empty*; std::string = std::__cxx11::basic_string<char>][m[K'
+[01m[K/opt/ros/noetic/include/ros/service_client.h:75:42:[m[K   required from '[01m[Kbool ros::ServiceClient::call(MReq&, MRes&) [with MReq = std_srvs::Empty*; MRes = std_srvs::Empty*][m[K'
+[01m[K/home/user/catkin_ws/src/bb8_server/src/bb8_client.cpp:16:36:[m[K   required from here
+[01m[K/opt/ros/noetic/include/ros/serialization.h:144:14:[m[K [01;31m[Kerror: [m[Krequest for member '[01m[KserializationLength[m[K' in '[01m[Kt[m[K', which is of pointer type '[01m[Kboost::call_traits<std_srvs::Empty*>::param_type[m[K' {aka '[01m[Kstd_srvs::Empty* const[m[K'} (maybe you meant to use '[01m[K->[m[K' ?)
+  144 |     return [01;31m[Kt.serializationLength[m[K();
+      |            [01;31m[K~~^~~~~~~~~~~~~~~~~~~[m[K
+/opt/ros/noetic/include/ros/serialization.h: In instantiation of '[01m[Kstatic void ros::serialization::Serializer<T>::write(Stream&, typename boost::call_traits<T>::param_type) [with Stream = ros::serialization::OStream; T = std_srvs::Empty*; typename boost::call_traits<T>::param_type = std_srvs::Empty* const][m[K':
+[01m[K/opt/ros/noetic/include/ros/serialization.h:154:23:[m[K   required from '[01m[Kvoid ros::serialization::serialize(Stream&, const T&) [with T = std_srvs::Empty*; Stream = ros::serialization::OStream][m[K'
+[01m[K/opt/ros/noetic/include/ros/serialization.h:814:12:[m[K   required from '[01m[Kros::SerializedMessage ros::serialization::serializeMessage(const M&) [with M = std_srvs::Empty*][m[K'
+[01m[K/opt/ros/noetic/include/ros/service_client.h:101:54:[m[K   required from '[01m[Kbool ros::ServiceClient::call(const MReq&, MRes&, const string&) [with MReq = std_srvs::Empty*; MRes = std_srvs::Empty*; std::string = std::__cxx11::basic_string<char>][m[K'
+[01m[K/opt/ros/noetic/include/ros/service_client.h:75:42:[m[K   required from '[01m[Kbool ros::ServiceClient::call(MReq&, MRes&) [with MReq = std_srvs::Empty*; MRes = std_srvs::Empty*][m[K'
+[01m[K/home/user/catkin_ws/src/bb8_server/src/bb8_client.cpp:16:36:[m[K   required from here
+[01m[K/opt/ros/noetic/include/ros/serialization.h:127:7:[m[K [01;31m[Kerror: [m[Krequest for member '[01m[Kserialize[m[K' in '[01m[Kt[m[K', which is of pointer type '[01m[Kboost::call_traits<std_srvs::Empty*>::param_type[m[K' {aka '[01m[Kstd_srvs::Empty* const[m[K'} (maybe you meant to use '[01m[K->[m[K' ?)
+  127 |     [01;31m[Kt.serialize[m[K(stream.getData(), 0);
+      |     [01;31m[K~~^~~~~~~~~[m[K
+/opt/ros/noetic/include/ros/serialization.h: In instantiation of '[01m[Kstatic void ros::serialization::Serializer<T>::read(Stream&, typename boost::call_traits<T>::reference) [with Stream = ros::serialization::IStream; T = std_srvs::Empty*; typename boost::call_traits<T>::reference = std_srvs::Empty*&][m[K':
+[01m[K/opt/ros/noetic/include/ros/serialization.h:163:22:[m[K   required from '[01m[Kvoid ros::serialization::deserialize(Stream&, T&) [with T = std_srvs::Empty*; Stream = ros::serialization::IStream][m[K'
+[01m[K/opt/ros/noetic/include/ros/serialization.h:859:14:[m[K   required from '[01m[Kvoid ros::serialization::deserializeMessage(const ros::SerializedMessage&, M&) [with M = std_srvs::Empty*][m[K'
+[01m[K/opt/ros/noetic/include/ros/service_client.h:111:30:[m[K   required from '[01m[Kbool ros::ServiceClient::call(const MReq&, MRes&, const string&) [with MReq = std_srvs::Empty*; MRes = std_srvs::Empty*; std::string = std::__cxx11::basic_string<char>][m[K'
+[01m[K/opt/ros/noetic/include/ros/service_client.h:75:42:[m[K   required from '[01m[Kbool ros::ServiceClient::call(MReq&, MRes&) [with MReq = std_srvs::Empty*; MRes = std_srvs::Empty*][m[K'
+[01m[K/home/user/catkin_ws/src/bb8_server/src/bb8_client.cpp:16:36:[m[K   required from here
+[01m[K/opt/ros/noetic/include/ros/serialization.h:136:7:[m[K [01;31m[Kerror: [m[Krequest for member '[01m[Kdeserialize[m[K' in '[01m[Kt[m[K', which is of pointer type '[01m[Kstd_srvs::Empty*[m[K' (maybe you meant to use '[01m[K->[m[K' ?)
+  136 |     [01;31m[Kt.deserialize[m[K(stream.getData());
+      |     [01;31m[K~~^~~~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/bb8_client.dir/build.make:63: CMakeFiles/bb8_client.dir/src/bb8_client.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:902: CMakeFiles/bb8_client.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [Makefile:141: all] Error 2

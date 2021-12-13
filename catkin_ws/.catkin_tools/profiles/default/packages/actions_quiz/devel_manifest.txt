@@ -1,6 +1,6 @@
 actions_quiz
 /home/user/catkin_ws/devel/.private/actions_quiz/cmake.lock /home/user/catkin_ws/devel/./cmake.lock
-/home/user/catkin_ws/devel/.private/actions_quiz/lib/actions_quiz/action_custom_robot /home/user/catkin_ws/devel/lib/actions_quiz/action_custom_robot
+/home/user/catkin_ws/devel/.private/actions_quiz/lib/actions_quiz/actions /home/user/catkin_ws/devel/lib/actions_quiz/actions
 /home/user/catkin_ws/devel/.private/actions_quiz/lib/pkgconfig/actions_quiz.pc /home/user/catkin_ws/devel/lib/pkgconfig/actions_quiz.pc
 /home/user/catkin_ws/devel/.private/actions_quiz/lib/python3/dist-packages/actions_quiz/__init__.py /home/user/catkin_ws/devel/lib/python3/dist-packages/actions_quiz/__init__.py
 /home/user/catkin_ws/devel/.private/actions_quiz/lib/python3/dist-packages/actions_quiz/msg/_CustomActionMsgActionFeedback.py /home/user/catkin_ws/devel/lib/python3/dist-packages/actions_quiz/msg/_CustomActionMsgActionFeedback.py

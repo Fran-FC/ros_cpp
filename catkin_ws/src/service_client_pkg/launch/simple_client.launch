@@ -1,0 +1,11 @@
+<launch>
+
+
+<node pkg="service_client_pkg" 
+name="service_client" 
+type="simple_service_client" 
+output="screen"> 
+</node>
+
+
+</launch>

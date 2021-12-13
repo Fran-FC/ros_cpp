@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/services_quiz/share/gennodejs/ros/services_quiz/_index.js

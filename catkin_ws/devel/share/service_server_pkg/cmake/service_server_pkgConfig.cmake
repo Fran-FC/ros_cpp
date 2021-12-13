@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/service_server_pkg/share/service_server_pkg/cmake/service_server_pkgConfig.cmake

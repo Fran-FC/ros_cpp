@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel/.private/actions_quiz
+
+Name: actions_quiz
+Description: Description of actions_quiz
+Version: 0.0.0
+Cflags: -I/home/user/catkin_ws/devel/.private/actions_quiz/include
+Libs: -L${prefix}/lib 
+Requires: actionlib actionlib_msgs roscpp

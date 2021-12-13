@@ -1,4 +1,4 @@
-Symlinking /home/user/catkin_ws/devel/lib/actions_quiz/action_custom_robot
+Symlinking /home/user/catkin_ws/devel/lib/actions_quiz/actions
 Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/actions_quiz.pc
 Symlinking /home/user/catkin_ws/devel/lib/python3/dist-packages/actions_quiz/__init__.py
 Symlinking /home/user/catkin_ws/devel/lib/python3/dist-packages/actions_quiz/msg/_CustomActionMsgActionFeedback.py

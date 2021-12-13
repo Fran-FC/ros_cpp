@@ -1,0 +1,36 @@
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target _my_custom_srv_msg_pkg_generate_messages_check_deps_MyCustomServiceMessage
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 22%] Built target my_custom_srv_msg_pkg_generate_messages_py
+[ 44%] Built target my_custom_srv_msg_pkg_generate_messages_eus
+[ 55%] Built target my_custom_srv_msg_pkg_generate_messages_nodejs
+[ 66%] Built target my_custom_srv_msg_pkg_generate_messages_cpp
+[ 77%] Built target my_custom_srv_msg_pkg_generate_messages_lisp
+[35m[1mScanning dependencies of target bb8_move_custom_service_server[0m
+[ 77%] Built target my_custom_srv_msg_pkg_generate_messages
+[ 88%] [32mBuilding CXX object CMakeFiles/bb8_move_custom_service_server.dir/src/bb8_move_custom_service_server.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/my_custom_srv_msg_pkg/lib/my_custom_srv_msg_pkg/bb8_move_custom_service_server[0m
+[100%] Built target bb8_move_custom_service_server

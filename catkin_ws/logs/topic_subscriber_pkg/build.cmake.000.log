@@ -32,6 +32,13 @@ Not searching for unused variables given on the command line.
 [36m--[0m Using Python nosetests: /usr/bin/nosetests3
 [36m--[0m catkin 0.8.9
 [36m--[0m BUILD_SHARED_LIBS is on
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[36m--[0m topic_subscriber_pkg: 1 messages, 0 services
 [36m--[0m Configuring done
+[31m[1mCMake Error[0m at /home/user/catkin_ws/src/topic_subscriber_pkg/CMakeLists.txt:132 (add_dependencies):
+  The dependency target "topic_ex_generate_messages_cpp" of target
+  "publish_age" does not exist.
+
+
 [36m--[0m Generating done
-[36m--[0m Build files have been written to: /home/user/catkin_ws/build/topic_subscriber_pkg
+CMake Generate step failed.  Build files cannot be regenerated correctly.
