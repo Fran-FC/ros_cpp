@@ -1,0 +1,8 @@
+<launch>
+<node
+    pkg="turtlebot3_move"
+    name="move_in_square"
+    type="mvsq"
+    output="screen">
+</node>
+</launch>

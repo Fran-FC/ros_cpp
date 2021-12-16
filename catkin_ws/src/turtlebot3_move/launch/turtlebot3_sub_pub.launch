@@ -1,0 +1,8 @@
+<launch>
+<node
+    pkg="turtlebot3_move"
+    name="turtlebot3_move"
+    type="tb3sp"
+    output="screen">
+</node>
+</launch>

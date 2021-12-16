@@ -1,0 +1,8 @@
+<launch>
+<node
+    pkg="turtlebot3_move"
+    name="record_odom"
+    type="asod"
+    output="screen">
+</node>
+</launch>
