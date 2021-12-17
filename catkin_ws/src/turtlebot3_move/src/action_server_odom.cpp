@@ -15,9 +15,9 @@ geometry_msgs::Point lastPoint;
 
 
 void odomCallback(const nav_msgs::Odometry::ConstPtr &msg) {
-  lastPoint.x = msg->pose.pose.position.x;
-  lastPoint.y = msg->pose.pose.position.y;
-  lastPoint.z = msg->pose.pose.position.z;
+    lastPoint.x = msg->pose.pose.position.x;
+    lastPoint.y = msg->pose.pose.position.y;
+    lastPoint.z = msg->pose.pose.position.z;
 }
 
 void actionCB(const turtlebot3_move::OdomRecordGoalConstPtr &goal) {
@@ -35,7 +35,7 @@ void actionCB(const turtlebot3_move::OdomRecordGoalConstPtr &goal) {
       
       if (as->isPreemptRequested() || !ros::ok()) {
         ROS_INFO("Preempted");
-        as->setPreempted();
+        as->setSucceeded(result);
         break;
       }
       
@@ -55,8 +55,6 @@ void actionCB(const turtlebot3_move::OdomRecordGoalConstPtr &goal) {
       i++;
     }
     ROS_INFO("END OF ACTIONCB");
-
-    as->setSucceeded(result);
 }
 
 int main(int argc, char **argv) {
@@ -71,7 +69,6 @@ int main(int argc, char **argv) {
     (nh, "record_odom", actionCB, false);
   as->start();
   
-  ROS_INFO("Spinning..");
   ros::spin();
   
   return 0;
